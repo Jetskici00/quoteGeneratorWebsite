@@ -89,13 +89,3 @@ body {
   margin: 5px;
   cursor: pointer;
 }
-
-.quote-box button img {
-  width: 55px;
-  margin-right: 5px;
-}
-
-.quote-box button:nth-child(2) {
-  background: transparent;
-  color: #333;
-}
